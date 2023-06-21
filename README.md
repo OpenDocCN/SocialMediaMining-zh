@@ -185,14 +185,6 @@ docker run -tid -p <port>:80 apachecn0/socialmediamining-zh
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
-
-```
-pip install SocialMediaMining-zh
-SocialMediaMining-zh <port>
-# 访问 http://localhost:{port} 查看文档
-```
-
 ### NPM
 
 ```
